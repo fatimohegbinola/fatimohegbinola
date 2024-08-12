@@ -1,5 +1,5 @@
 - 👋 Hi, I’m fatima
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Data Analysis 
 
 <!---
 fatimohegbinola/fatimohegbinola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
